@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+#birthContainer ,#rcDocument,#poaDocument, #signDocument,#birthDocument{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 8px;
+	margin-top: 3px;
+}
+
+#bcard {
+	margin-top: 4%;
+}
+
+.texthead {
+	margin-right: 10px;
+}
+
+.btext {
+	margin-right: 2%;
+}
+
+.rcard {
+	margin-right: 5%;
+}
+
+.stext {
+	margin-right: 11%;
+}
+#rcDoc{
+	margin-bottom: 2%;
+	margin-left: 3%;
+}
+#poaDoc{
+	margin-bottom: 2%;
+	margin-left: 3%;
+	
+}
+#birthDoc{
+	margin-bottom: 2%;
+	margin-left: 3%;
+	
+}
+#sdoc{
+	margin-bottom: 2%;
+	margin-left: 3%;
+	
+}

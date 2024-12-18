@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+#birthContainer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+}
+#modalForSessionTimeout {
+  position: absolute;
+  float: left;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
